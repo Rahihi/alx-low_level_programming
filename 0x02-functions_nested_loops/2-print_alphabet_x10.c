@@ -1,24 +1,19 @@
 #include "main.h"
 /**
- * print_alphabet_x10 - entry point
- * Description: Display the english alphabet 10 times
- * in lowercase
+ * print_alphabet_x10 - function to print abc 10 times
+ *
  * Return: 0
  */
 void print_alphabet_x10(void)
 {
-	int num, let;
+	char c, i;
 
-	for (num = 0; num <= 9; num++)
+	for (i = 0; i <= 9; i++)
 	{
-		let = 'a';
-
-		while (let <= 'z')
-
+		for (c = 'a'; c <= 'z'; c++)
 		{
-			_putchar(let);
-			let++;
-		}						
+			_putchar(c);
+		}
 		_putchar('\n');
 	}
 }
