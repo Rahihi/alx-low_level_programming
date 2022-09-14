@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 /**
  * print_alphabet - entry point
  * Description: To wride a to z embedd it in a function
