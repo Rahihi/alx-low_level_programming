@@ -1,5 +1,3 @@
-Write a function that prints a square, followed by a new line.
+The prime factors of 1231952 are 2, 2, 2, 2, 37 and 2081.
 
-Prototype: void print_square(int size);
-You can only use _putchar function to print
-Where size is the size of the square
+Write a program that finds and prints the largest prime factor of the number 612852475143, followed by a new line.
