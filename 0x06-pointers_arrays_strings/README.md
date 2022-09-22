@@ -1,7 +1,1 @@
-Write a function that encodes a string using rot13.
-
-Prototype: char *rot13(char *);
-You can only use if statement once in your code
-You can only use two loops in your code
-You are not allowed to use switch
-You are not allowed to use any ternary operation
+Add one line to this code, so that the program prints a[2] = 98, followed by a new line.
