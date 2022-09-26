@@ -1,5 +1,3 @@
-Write a function that searches a string for any of a set of bytes.
+Write a function that sets the value of a pointer to a char.
 
-Prototype: char *_strpbrk(char *s, char *accept);
-The _strpbrk() function locates the first occurrence in the string s of any of the bytes in the string accept
-Returns a pointer to the byte in s that matches one of the bytes in accept, or NULL if no such byte is found
+Prototype: void set_string(char **s, char *to);
