@@ -1,5 +1,4 @@
-Write a function that copies memory area.
+Write a function that gets the length of a prefix substring.
 
-Prototype: char *_memcpy(char *dest, char *src, unsigned int n);
-The _memcpy() function copies n bytes from memory area src to memory area dest
-Returns a pointer to dest
+Prototype: unsigned int _strspn(char *s, char *accept);
+Returns the number of bytes in the initial segment of s which consist only of bytes from accept
