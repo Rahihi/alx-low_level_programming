@@ -1,3 +1,3 @@
-Write a function that prints a string, followed by a new line.
+Write a function that prints a string in reverse.
 
-Prototype: void _puts_recursion(char *s);
+Prototype: void _print_rev_recursion(char *s);
