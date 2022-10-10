@@ -1,1 +1,1 @@
-Create a header file that defines a macro named PI as an abbreviation for the token 3.14159265359.
+Write a function-like macro ABS(x) that computes the absolute value of a number x.
